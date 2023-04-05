@@ -18,4 +18,8 @@ public class Sampleprog {
 		System.out.println("tc4");
 	}
 
+	public void tc_5() {
+		System.out.println("tc4");
+	}
+
 }
