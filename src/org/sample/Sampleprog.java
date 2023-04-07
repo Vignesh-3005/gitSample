@@ -19,7 +19,13 @@ public class Sampleprog {
 	}
 
 	public void tc_5() {
-		System.out.println("tc4");
+		System.out.println("tc5");
 	}
+	
+	public void tc_6() {
+		System.out.println("tc6");
+	}
+
+	
 
 }
